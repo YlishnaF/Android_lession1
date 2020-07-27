@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="batton_text">добавить место</string>
+    <string name="title">Погода в выбранных местах</string>
+    <string name="City">Пермь</string>
+    <string name="City2">Москва</string>
+</resources>

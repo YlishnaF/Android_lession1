@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="batton_text">add location</string>
+    <string name="title">Wether in your favorite locations</string>
+    <string name="City">Perm</string>
+    <string name="City2">Moscow</string>
+</resources>
